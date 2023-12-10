@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-import joblib
+
 
 
 with open('modeldt.pkl', 'rb') as f:
